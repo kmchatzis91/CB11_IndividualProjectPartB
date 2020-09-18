@@ -1,0 +1,56 @@
+C:\Users\kmcha\Desktop\Project v19\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Project v19\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Project v19\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\Project v19\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v19\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v19\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v19\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v20\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\Project v20\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v20\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v20\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Project v20\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Project v20\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v20\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v21\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\Project v21\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v21\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v21\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Project v21\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Project v21\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v21\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v22\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\Project v22\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v22\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v22\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Project v22\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Project v22\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v22\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v23\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\Project v23\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v23\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v23\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Project v23\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Project v23\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v23\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v24\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\Project v24\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v24\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v24\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Project v24\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Project v24\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v24\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v25\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\Project v25\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v25\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\Project v25\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\Project v25\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\Project v25\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\Project v25\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\konsChatzis\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe.config
+C:\Users\kmcha\Desktop\konsChatzis\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\konsChatzis\konsChatzisProjPartB\konsChatzisProjPartB\bin\Debug\konsChatzisProjPartB.pdb
+C:\Users\kmcha\Desktop\konsChatzis\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\konsChatzis\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\konsChatzis\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.exe
+C:\Users\kmcha\Desktop\konsChatzis\konsChatzisProjPartB\konsChatzisProjPartB\obj\Debug\konsChatzisProjPartB.pdb
